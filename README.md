@@ -4,7 +4,7 @@ Project Title: WikiBot
 
 Date: November 22, 2022
 
-This is a program testing the Wikipedia API. The user inputs a topic, searches for the Wikipedia link using the API, and returns a summary paragraph of the topic.
+This is a program testing the Wikipedia API. The user inputs a topic, searches for the Wikipedia link using the API, and returns a summary paragraph of the topic. This was a fun project to see how the Wikipedia API works, as well as a nice introduction to data scraping!
 
 Upon running the program, the user will be asked to enter a Wikipedia topic. Input whatever topic you are interested in, and the program will output a summary paragraph of the topic. Simply type 'quit' to end the program.
 
